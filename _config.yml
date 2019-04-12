@@ -1,13 +1,13 @@
 # Site settings
-name: Less Or More
+name: 网络安全学习笔记
 email: zeroyear1@163.com
 author: ZeroYear
 url: https://www.baidu.com
 resume_site: https://www.baidu.com
 github: https://github.com/OrangeWatermelon/
 baseurl: ""
-description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+description: 坚持每周一篇
+meta_description: 橘子西瓜呲牙;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
 motto: It's our wits that make us men.
 banner: 学而不思则罔，思而不学则殆。
 
