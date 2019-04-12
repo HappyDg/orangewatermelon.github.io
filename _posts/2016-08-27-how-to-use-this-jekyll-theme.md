@@ -18,11 +18,10 @@ tag: 教程
 + 感谢[Solar](https://github.com/mattvh/solar-theme-jekyll)的原作者[Matt Harzewski](http://www.webmaster-source.com/)，在`2014.11`-`2016.09`的两年间，我的博客选用了此样式模版
 
 
-使用							{#How-to-use}
-====================================
+# 使用							{#How-to-use}
 
-下载							{#Download}
-------------------------------------
+
+## 下载							{#Download}
 
 使用git从[LessOrMore](https://github.com/luoyan35714/LessOrMore.git)主页下载项目
 
